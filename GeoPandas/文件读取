@@ -1,0 +1,4 @@
+ref: https://geopandas.org/en/stable/docs/user_guide/io.html
+文件读写要考虑内存大小与运行效率
+# geopandas.read_file()
+Reading subsets of the data(Geometry Filter,Bounding Box Filter,Row Filter,Field/Column Filters)
